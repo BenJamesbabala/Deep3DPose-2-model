@@ -5,6 +5,7 @@ clc
 
 %%
 % prepare data
+addpath('io/')
 addpath('../prepare/mesh/skel/');
 addpath('../prepare/mesh/quatern/');
 
